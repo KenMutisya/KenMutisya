@@ -1,37 +1,38 @@
-<h2> Hi, I'm Kennedy Mutisya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+# 🐉 Brave Dragon - Welcome to Kennedy Mutisya's world 👋
+
+> "We are here for one brief, miraculous moment. So, burn brightly while you can"
+
+Hello mate,
+
+My name is **Kennedy Mutisya**, nice to meet you. A Senior Rockstar Engineer who loves to elevate awesome products 🔥.
+
+People know me as a super-funny*, friendly, optimistic, and energetic guy who has loved technology and programming since high school. I'm a continuous learner and team player 🏎️.
+
+Living in Kenya & working with engineers around the globe 😆. Can't start my day without a lovely Kenyan Tea ☕️.
+
+Fun facts:
+
+- The first-ever programming language I learned was **Visual Basic** (in 2009) to generate invoices for a cyber cafe 👀
+- And then, **PHP** (2010) 😎
+- I love to try every kind of coffee.
+
+## My cool stuff 😎
+
+- [Kennedy's Tech Blog - where I share tech tips, knowledge, and tricks](https://mutisyakennedy.com/) 🧑‍💻
 
 
-[![Twitter: mutisya](https://img.shields.io/twitter/follow/officialmutisya?style=social)](https://twitter.com/officialmutisya)
-[![Linkedin: mutisya](https://img.shields.io/badge/-kenmutisya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenmutisya/)](https://www.linkedin.com/in/kenmutisya/)
-[![GitHub mutisya](https://img.shields.io/github/followers/kenmush?label=follow&style=social)](https://github.com/kenmush)
+## STACK & Expertise
 
+| Backend | Frontend | Misc |
+| --- | --- | --- |
+| PHP 8.4 | JavaScript | TDD |
+| Node.JS 22 | TypeScript | Tech writer |
+| Laravel 5~13 | Vue 3 | CI/CD |
+| MySQL/PostgreSQL | React (soft-core) | Linux & MacOS |
+| Queues (SQS, Redis, DB) | TailwindCSS FTW | E2E w PlayWright |
+| Redis | Jest/Mocha | Vultr, AWS & GCP |
+| PHPUnit & Jest | ❤️ Drag & Drop | Docker |
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+Huge ❤️ for Serverless, and Machine Learning too 🚀
 
-```javascript
-const mutisya = {
-  pronouns: "he" | "his",
-  code: [Javascript, SASS, HTML, CSS, PHP, Laravel, MySQL, Vue, Tailwind],
-  technologies: {
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap","tailwind]
-        },
-        backEnd: {
-            js: ["Vue", "express"],
-            php: ["Laravel"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"]
-    },
- askMeAbout: ["web dev", "tech", "app dev", "criminology"],
- architecture: ["Serverless Architecture", "PWA's", "Single page applications","microservices"],
- futureGoal: "Contribute to open source more",
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
+Have a lovely day, my friend 😉!
